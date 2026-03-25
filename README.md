@@ -61,7 +61,7 @@
 ```bash
 # Клонирование репозитория
 git clone <repository-url>
-cd C2_s21_stringplus.ID_395950-Team_TL_ganisrum.412d82c1_8b0a_44ad-1
+cd stringplus
 
 # Сборка статической библиотеки
 make s21_string.a
